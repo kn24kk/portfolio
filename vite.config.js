@@ -1,4 +1,5 @@
 module.exports = {
   base: "/portfolio/",
-  outDir: "docs"
+  outDir: "docs",
+  assetsDir: "assets"
 }
