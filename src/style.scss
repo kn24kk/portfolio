@@ -1,0 +1,17 @@
+@import 'ver.scss';
+@import 'base.scss';
+
+body {
+  color: $black;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  background: $l-gray;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+}
+
+body.modalOpen {
+  height: 100vh;
+  overflow: hidden;
+}

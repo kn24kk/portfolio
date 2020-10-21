@@ -1,0 +1,11 @@
+$black: #424b42;
+$l-gray: #e5e9d7;
+$gray: darken($l-gray, 40);
+$accent: #e9d310;
+
+$sans-serif-en: 'Rajdhani', sans-serif;
+
+@mixin title {
+  font-family: $sans-serif-en;
+  letter-spacing: .5em;
+}
