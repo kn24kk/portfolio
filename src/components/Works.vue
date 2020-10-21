@@ -55,7 +55,7 @@ export default {
         {name:'サービス案内ページ',date:'2019年',org: 'スタイルアクト株式会社（パート）',comment:'「時間を節約できる」という訴求ポイントをアピールできるようなシンプルな雰囲気のデザインとしました。',image:'images/img-sa01.png',tags:['画面デザイン','コーディング'],url:'https://www.sumai-surfin.com/service/premierChuko/'},
         {name:'キャンペーンページ',date:'2019年',org: 'スタイルアクト株式会社（パート）',comment:'春らしい雰囲気の明るいデザインとしました。',image:'images/img-sa04.png',tags:['画面デザイン','コーディング'],url:'https://www.sumai-surfin.com/campaign/201903springcampaign/'},
         {name:'サービス紹介サイト',date:'2019年',org: 'スタイルアクト株式会社（パート）',comment:'困っていることに対しての解決策を提案できるというコンセプトで作成しました。サービスへのイメージがわきづらいという声もあり、トップページで「あるある」と思えるような事例を押し出しております。',image:'images/img-sa03.png',tags:['サイト設計','画面デザイン','コーディング'],url:'https://www.stylerent.jp/'},
-        {name:'特集ページ',date:'2019年',org: 'スタイルアクト株式会社（パート）',comment:'hogehogehogehoge',image:'images/img-sa02.png',tags:['画面デザイン','コーディング'],url:'https://www.sumai-surfin.com/lab/stations-areas/bayside-cities/'},
+        {name:'特集ページ',date:'2019年',org: 'スタイルアクト株式会社（パート）',comment:'湾岸エリアらしい爽やかなデザインとしました',image:'images/img-sa02.png',tags:['画面デザイン','コーディング'],url:'https://www.sumai-surfin.com/lab/stations-areas/bayside-cities/'},
         {name:'特集サイト',date:'2013年',org: '株式会社首都高（派遣社員）',comment:'レインボーブリッジ20周年を記念したサイトです。サイト設計からコーディングを担当、レインボーブリッジの橋脚をイメージしたロゴも作成しました。',image:'images/img-shutoko02.jpg',tags:['サイト設計','画面デザイン','コーディング']},
         {name:'特集サイト',date:'2012年',org: '株式会社首都高（派遣社員）',comment:'首都高開通50周年を記念したサイトです。Facebook、Twitterの運用も提案し、更新も担当しました。',image:'images/img-shutoko01.jpg',tags:['サイト設計','画面デザイン','コーディング']},
         {name:'特集サイト',date:'2011年',org: '日本情報システム株式会社（正社員）',comment:'受注前のヒアリングから納品までを担当、CMSとしてMovableTypeを使用しました。物件検索システムのUIデザインも担当しました。',image:'images/img-njs01.jpg',tags:['サイト設計','画面デザイン','コーディング']},
