@@ -6,6 +6,7 @@
       <li><a href="#works">Works</a></li>
       <li><a href="#aboutme">About Me</a></li>
     </ul>
+    <p class="pdf"><a href="pdf/portfolio.pdf" target="_blank">PDF版ポートフォリオ</a></p>
   </header>
 </template>
 
@@ -42,7 +43,7 @@ export default {
 .nav {
   margin: 0 auto;
   list-style: none;
-  margin: 0;
+  margin: 0 0 2em;
   padding: 0;
   font-family: $sans-serif-en;
   li {
@@ -59,6 +60,14 @@ export default {
         letter-spacing: .2em;
       }
     }
+  }
+}
+.pdf {
+  a {
+    background: $gray;
+    padding: .2em 1em;
+    color: $white;
+    text-decoration: none;
   }
 }
 </style>
