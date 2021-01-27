@@ -98,12 +98,11 @@ export default {
   margin: 0 4vw;
 }
 .list {
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   margin: 0 auto;
-  flex-wrap: wrap;
 }
 .item {
-  width: calc((100% - 2vw) / 3);
   margin: 0 1vw 1vw 0;
   background: #fff;
   border-radius: 4px;
