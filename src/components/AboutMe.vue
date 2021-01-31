@@ -20,7 +20,7 @@ export default {
       profile: [
         {title:'氏名',data:'神津薫'},
         {title:'スキル・ツール',data:'HTML5, CSS3, SASS, JavaScript, jQuery, Vue, Git, PhotoShop, Illustrator, Visual Studio Code, Slack, Chatwork'},
-        {title:'実務経験があるもの',data:'企業ページ, LPページ, バナー, メールマガジン, 小規模なWebサイトのディレクション, CMS（MovableType）の組み込み、エンドユーザー向けマニュアルライティング'},
+        {title:'実務経験があるもの',data:'企業ページ, LPページ, バナー, メールマガジン, 小規模なWebサイトのディレクション, CMS（MovableType）の組み込み、クライアント向けCMS作業手順マニュアル作成'},
         {title:'好きな作業',data:'コーディング'},
         {title:'今後目指すもの',data:'エンドユーザーから社内スタッフまで、多方面のWebサービス利用者が快適に使用するためのUXデザインをする'},
       ]

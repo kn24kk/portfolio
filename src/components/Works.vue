@@ -58,7 +58,9 @@ export default {
         {name:'特集ページ',date:'2019年',org: 'スタイルアクト株式会社（パート）',comment:'湾岸エリアらしい爽やかなデザインとしました',image:'images/img-sa02.png',tags:['画面デザイン','コーディング'],url:'https://www.sumai-surfin.com/lab/stations-areas/bayside-cities/'},
         {name:'特集サイト',date:'2013年',org: '株式会社首都高（派遣社員）',comment:'レインボーブリッジ20周年を記念したサイトです。サイト設計からコーディングを担当、レインボーブリッジの橋脚をイメージしたロゴも作成しました。',image:'images/img-shutoko02.jpg',tags:['サイト設計','画面デザイン','コーディング']},
         {name:'特集サイト',date:'2012年',org: '株式会社首都高（派遣社員）',comment:'首都高開通50周年を記念したサイトです。Facebook、Twitterの運用も提案し、更新も担当しました。',image:'images/img-shutoko01.jpg',tags:['サイト設計','画面デザイン','コーディング']},
-        {name:'特集サイト',date:'2011年',org: '日本情報システム株式会社（正社員）',comment:'受注前のヒアリングから納品までを担当、CMSとしてMovableTypeを使用しました。物件検索システムのUIデザインも担当しました。',image:'images/img-njs01.jpg',tags:['サイト設計','画面デザイン','コーディング']},
+        {name:'不動産関連',date:'2011年',org: '日本情報システム株式会社（正社員）',comment:'受注前のヒアリングから納品までを担当、CMSとしてMovableTypeを使用しました。物件検索システムのUIデザインも担当しました。',image:'images/img-njs01.jpg',tags:['サイト設計','画面デザイン','コーディング']},
+        {name:'勤労者福祉サービスセンター',date:'2010年',org: '日本情報システム株式会社（正社員）',comment:'受注前のヒアリングから納品までを担当、ITスキルの乏しいクライアントでも更新可能な簡易的なCMSを導入しています。',image:'images/img-njs02.png',tags:['サイト設計','画面デザイン','コーディング'],url:'http://www.sayama-sc.or.jp/'},
+        {name:'製造業',date:'2011年',org: '日本情報システム株式会社（正社員）',comment:'受注前のヒアリングから納品までを担当しました。汚泥脱水機を扱うものの重い雰囲気は避けたいとのクライアントの意向があり、キャラクターを作成し思い切った明るさのあるサイトを作成しました。※リンク先では一部画像が表示されておりません。',image:'images/img-njs04.png',tags:['サイト設計','画面デザイン','コーディング'],url:'http://www.yanagawa-eng.co.jp/'},
         
       ]
     }
@@ -103,14 +105,11 @@ export default {
   margin: 0 auto;
 }
 .item {
-  margin: 0 1vw 1vw 0;
+  margin: 0 .5vw 1vw .5vw;
   background: #fff;
   border-radius: 4px;
   overflow: hidden;
   cursor: pointer;
-  &:nth-child(3n) {
-    margin-right: 0;
-  }
   :hover .thumb {
     filter: grayscale(0);
     opacity: 1;
